@@ -1,6 +1,6 @@
 # About Me
 This is Vedant Athavale from TY BTech EXTC. Well, I guess there's hardly any need to introduce myself as </br> you must have got a fair idea from my GitHub profile. 
-In brief, I am an amateur Web Developer who finds interest coding in React and Node for Web Development, </br> Python for ML and Business Inteliigence and C++ for basic DSA.
+In brief, I am an amateur Web Developer who finds interest coding in React and Node for Web Development, </br> Python for ML and Business Inteliigence and C++ for basic DSA.</br>I am a Finance Enthusiast. If you are, do connect with me!
 
 # Motive and Purpose:
 As a senior to you all, I thought it might be great if I can help you all by sharing the study material</br> and save some of your time for actual studying. </br> 
@@ -11,5 +11,5 @@ If at all anyone of you feel asking some doubt related to profs or internships o
 </br> ## Happy Studying to you all!
 
 # Connect with me
-<a href="https://www.linkedin.com/in/vedant-athavale-0555061a6/"><b>My LinkedIn Profile</b></a>
+<a href="https://www.linkedin.com/in/vedant-athavale-0555061a6/"><b>My LinkedIn Profile</b></a> </br>
 <b>My Whatsapp Number: +91 9004188281</b> 
